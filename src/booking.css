@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.me{
+    padding: 1px;
+ 
+    line-height: 100px;
+    
+}
+input{
+    align-items: center;
+    height: 80px;
+    width: 100px;
+    margin: 40px;
+    margin-top: 60px;
+    border :2px solid white;
+    background-color: transparent;
+    border-radius: 10px;
+    color: white;
+}

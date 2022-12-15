@@ -1,0 +1,15 @@
+h1{
+    font-size: 60px;
+    color: white;
+    margin-top: 120px !important;
+    margin-left: 120px;
+}
+p{
+    
+    font-size: 18px;
+    height: auto;
+   width: auto;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}

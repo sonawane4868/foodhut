@@ -1,0 +1,30 @@
+.img-logo{
+    height: 100px;
+    width: 100px;
+    margin-left:auto;
+    align-items: center;
+
+}
+html{
+    overflow-x: hidden;
+}
+.fonts{
+    font-size: 18px !important;
+    color: rgb(255, 251, 251) !important;
+    font-weight: 600 !important;
+    text-shadow:  black !important;
+}
+.fonts:hover{
+    color: #ff214f !important;
+    text-shadow: white;
+}
+.btn{
+    font-weight: 600 !important;
+    font-size: 20px;
+    height: 60px;
+}
+.btn-f{
+    background-color: #ff214f !important;
+    color: white;
+    font-weight: 600 !important;
+}

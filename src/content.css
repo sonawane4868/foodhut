@@ -1,0 +1,29 @@
+*{
+   padding: 0%;
+   margin: 0%;
+}
+.content{
+   margin-top:250px;
+   
+}
+.font{
+   font-size: 80px !important;
+}
+.font:hover{
+   background: -webkit-linear-gradient(#eee,#ff214f);
+   font-size: 60px;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+.lead{
+   font-size: 30px;
+}
+.btn-primary{
+   background-color: #ff214f;
+   border: #ff214f;
+}
+.btn:hover{
+   background-color: transparent;
+   border:2px solid #eee;
+}
+

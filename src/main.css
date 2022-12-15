@@ -1,0 +1,23 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background:-moz-linear-gradient(141deg, rgba(17, 17, 17, 1) 0%, rgba(70, 0, 4, 1) 100%); 
+
+    /* safari 5.1+,chrome 10+ */
+    background:-webkit-linear-gradient(141deg, rgba(17, 17, 17, 1) 0%, rgba(70, 0, 4, 1) 100%);
+
+    /* opera 11.10+ */
+    background:-o-linear-gradient(141deg, rgba(17, 17, 17, 1) 0%, rgba(70, 0, 4, 1) 100%);
+
+    /* ie 6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#460004', endColorstr='#111111', GradientType=1 );
+
+    /* ie 10+ */
+    background:-ms-linear-gradient(141deg, rgba(17, 17, 17, 1) 0%, rgba(70, 0, 4, 1) 100%);
+
+    /* global 94%+ browsers support */
+    background:linear-gradient(141deg, rgba(17, 17, 17, 1) 0%, rgba(70, 0, 4, 1) 100%);
+}
